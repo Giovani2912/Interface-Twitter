@@ -1,28 +1,20 @@
 
 # Sobre:
-Recriando uma interface responsiva dp Twitter  [Mercado Livre](https://www.mercadolivre.com.br/).
-
+Recriando uma interface responsiva do [Twitter](https://twitter.com/).
 ---
-
-<img src="https://ik.imagekit.io/68zs3fyerma/Twitter-Logo_xCfGZGorg.jpg" width="200">
-
-<img src="https://ik.imagekit.io/68zs3fyerma/fullscreen_8zkihXdLk9.PNG">
-
-<img src="https://ik.imagekit.io/68zs3fyerma/fuulscrenmobile_J9oysIzhc.PNG">
-
 <br />
 <br />
-#  Scroll infinto no mobile:
+<h1>Scroll infinto no mobile:</h1>
 <br />
 <br />
 
-<h1>
+<p align="center">
     <img src="gifs/fullscreenmobilegif.gif">
-</h1>
+</p>
 
 <br />
 <br />
-#  Scroll infinto:
+<h1>Scroll infinto em dispositivos maiores:</h1>
 <br />
 <br />
 
