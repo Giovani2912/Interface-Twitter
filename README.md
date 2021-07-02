@@ -3,7 +3,7 @@
 Recriando uma interface responsiva do [Twitter](https://twitter.com/).
 ---
 <p align="center">
-<img src="https://ik.imagekit.io/68zs3fyerma/logo_f67U7UMWu.png" width="200">
+<img src="gifs/logo.svg" width="200">
 </p>
 <br />
 <br />
